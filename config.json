@@ -1,7 +1,7 @@
 {
-    "prefix": "/",
-    "owner": "Owner Name",
-    "botname": "Bot Name",
+    "prefix": ".",
+    "owner": "Mark Martinez",
+    "botname": "TUTEL Bot",
     "apiOptions": {
         "forceLogin": false,
         "logLevel": "silent",
@@ -15,7 +15,7 @@
         "listenEvents": true
     },
     "adminBot": [
-        "Owner UID"
+        ""
     ],
     "autoLoad": true,
     "autopost": true,
