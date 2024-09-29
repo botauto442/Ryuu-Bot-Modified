@@ -14,7 +14,7 @@ module.exports = {
             return api.sendMessage(global.convertToGothic('Please provide a song name to search for.'), event.threadID, event.messageID);
         }
 
-        const searchUrl = `https://deku-rest-api.gleeze.com/search/spotify?q=${encodeURIComponent(query)}`;
+        const searchUrl = `https://spotifydl-api-54n8.onrender.com/spotifydl?search=${encodeURIComponent(query)}`;
 
         try {
             const response = await axios.get(searchUrl);
