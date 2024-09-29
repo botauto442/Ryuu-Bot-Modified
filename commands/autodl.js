@@ -3,7 +3,7 @@ const fs = require('fs');
 const getFBInfo = require("@xaviabot/fb-downloader");
 
 module.exports = {
-    name: "autodl",
+    name: "adown",
     description: "Automatically download TikTok, Facebook, and Capcut videos by Jr Busaco",
     prefixRequired: false,
     adminOnly: false,
