@@ -16,6 +16,7 @@ ${formatResponse(data.gemini)}
 
 module.exports = {
   name: "gpt4o",
+  aliases: ["gpt", "ai",],
   description: "Ask GPT anything.",
   prefixRequired: false,
   adminOnly: false,
