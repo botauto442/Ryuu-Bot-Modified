@@ -1,7 +1,7 @@
 {
     "prefix": ".",
-    "owner": "Mark Martinez",
-    "botname": "TUTEL Bot",
+    "owner": "Raniel Hiyan",
+    "botname": "Ai bot",
     "apiOptions": {
         "forceLogin": false,
         "logLevel": "silent",
@@ -15,7 +15,7 @@
         "listenEvents": true
     },
     "adminBot": [
-        ""
+        "100092248658233"
     ],
     "autoLoad": true,
     "autopost": true,
